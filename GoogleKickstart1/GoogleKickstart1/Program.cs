@@ -8,7 +8,14 @@ namespace GoogleKickstart1
 {
     class Program
     {
-
+        
+        /// <summary>
+        /// Checks if given string has a palindrome in it
+        /// </summary>
+        /// <param name="input">string in which the palindrome is</param>
+        /// <param name="start"> starting point for palindrome</param>
+        /// <param name="end">ending point for palindrome</param>
+        /// <returns></returns>
         public static bool makePalindrome(String input, int start, int end)
         {
             char[] cA = new char[end-start+1]; //ABAACCA
@@ -52,7 +59,11 @@ namespace GoogleKickstart1
             return false;
         }
 
-
+        /// <summary>
+        /// This application checks if given strings have palindromes in them
+        /// User gives the string and starting and ending points for the palindrome
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             int tests;
