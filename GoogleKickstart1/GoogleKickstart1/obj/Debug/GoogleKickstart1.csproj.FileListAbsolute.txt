@@ -1,0 +1,6 @@
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\bin\Debug\GoogleKickstart1.exe.config
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\bin\Debug\GoogleKickstart1.exe
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\bin\Debug\GoogleKickstart1.pdb
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\obj\Debug\GoogleKickstart1.csprojAssemblyReference.cache
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\obj\Debug\GoogleKickstart1.exe
+C:\Ohjelmointijuttui\GoogleKickstart\GoogleKickstart1\GoogleKickstart1\obj\Debug\GoogleKickstart1.pdb
